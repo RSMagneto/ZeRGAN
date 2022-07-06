@@ -9,6 +9,6 @@ year={2022},
 volume={},  
 number={},  
 pages={1-15},  
-doi={10.1109/TNNLS.2021.3137373}}
+doi={10.1109/TNNLS.2021.3137373}
     </code>
 </pre>
